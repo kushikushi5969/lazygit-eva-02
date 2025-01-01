@@ -11,6 +11,8 @@ gui:
     "main": "#ffffff"
     "master": "#ffffff"
     "feat": "#008000"
+    "feature": "#008000"
+    "issue": "#008000"
     "hotfix": "#ff0000"
   theme:
     # デフォルトテキスト
