@@ -6,6 +6,7 @@ gui:
   # テーマカラー｜EVA-02
   authorColors:
     "kussy": "#006400"
+    "kushikushi5969": "#006400"
     "*": "#d2691e"
   branchColors:
     "main": "#ffffff"
